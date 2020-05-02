@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is a free software.
+Git is software.
 Git Add 1
 Git Add 2
 Git add 3
